@@ -1,0 +1,17 @@
+feature,importance
+Antibiotics_current,0.0824749
+IBS,0.07897818
+Probiotic,0.07891795
+Constipation,0.07335935
+bmi,0.07122829
+IBD,0.06926706
+sex,0.06838311
+Antibiotics_past_3_months,0.06635487
+amr_burden_score,0.06300303
+age,0.062206134
+target,0.060499884
+Depression_anxiety_mood_med,0.060110275
+Anti_inflammatory_drugs,0.05866359
+Sleep_aid,0.05421109
+gut_brain_score,0.052342348
+PPI,0.0
