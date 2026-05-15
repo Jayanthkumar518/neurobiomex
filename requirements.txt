@@ -2,4 +2,14 @@ streamlit
 pandas
 numpy
 scikit-learn
+xgboost
+shap
+librosa
+soundfile
 plotly
+matplotlib
+seaborn
+joblib
+fpdf
+biom-format
+streamlit-option-menu
