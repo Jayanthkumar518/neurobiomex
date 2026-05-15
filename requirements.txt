@@ -13,3 +13,5 @@ joblib
 fpdf
 biom-format
 streamlit-option-menu
+audio-recorder-streamlit
+reportlab
